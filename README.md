@@ -5,5 +5,5 @@
 - Developing minecraft mods and plugins as a hobby
 
 ## Github stats
-![najoan125's Stats](https://github-readme-stats.vercel.app/api?username=najoan125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![najoan125's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najoan125&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<a><img src="https://github-readme-stats.vercel.app/api?username=najoan125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160px"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najoan125&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="160px"></a>
