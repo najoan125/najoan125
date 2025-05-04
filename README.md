@@ -1,5 +1,5 @@
 ## About
-- [Hyfata Official](https://discord.hyfata.kr)'s owner
+- [Hyfata Official](http://discord.hyfata.kr)'s owner
 - I usually use Java, Javascript for developing
 - Developing Java swing application, libraries, Node.js and more.
 - Developing minecraft mods and plugins as a hobby
